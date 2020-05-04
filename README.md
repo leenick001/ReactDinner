@@ -1,2 +1,1 @@
-# ReactDinner
-React API searches for dishes
+Ravenous React App - Part of Codecademy's Intensive Course Program
